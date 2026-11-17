@@ -193,6 +193,15 @@
             "tech-news",
             "finance-news"
           ]
+        },
+        {
+          "channel": "pelosi3",
+          "enabled": true,
+          "fetch_limit": 20,
+          "profile": [
+            "tech-news",
+            "finance-news"
+          ]
         }
       ]
     }
