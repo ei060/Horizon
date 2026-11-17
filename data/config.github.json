@@ -148,6 +148,13 @@
         "enabled": true,
         "category": "tech",
         "profile": "tech-news"
+      },
+      {
+        "name": "Dapenti Xilei",
+        "url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
+        "enabled": true,
+        "category": "chinese",
+        "profile": "tech-blog"
       }
     ],
     "reddit": {
