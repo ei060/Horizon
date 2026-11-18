@@ -155,6 +155,48 @@
         "enabled": true,
         "category": "chinese",
         "profile": "tech-blog"
+      },
+      {
+        "name": "Ruanyifeng Blog",
+        "url": "https://feeds.feedburner.com/ruanyifeng",
+        "enabled": true,
+        "category": "tech",
+        "profile": "tech-blog"
+      },
+      {
+        "name": "Solidot",
+        "url": "https://feeds.feedburner.com/solidot",
+        "enabled": true,
+        "category": "tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "iFanr",
+        "url": "https://www.ifanr.com/feed",
+        "enabled": true,
+        "category": "tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Appinn",
+        "url": "http://feeds-origin.appinn.com/appinns",
+        "enabled": true,
+        "category": "tech",
+        "profile": "tech-blog"
+      },
+      {
+        "name": "RTHK Finance",
+        "url": "https://rthk.hk/rthk/news/rss/c_expressnews_cfinance.xml",
+        "enabled": true,
+        "category": "finance",
+        "profile": "finance-news"
+      },
+      {
+        "name": "Nanfang Weekend Hot",
+        "url": "http://feeds.feedburner.com/nfzm/hotnews",
+        "enabled": true,
+        "category": "finance",
+        "profile": "finance-news"
       }
     ],
     "reddit": {
